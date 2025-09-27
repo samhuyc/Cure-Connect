@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Cure-Connect Logo" width="200"/>
+  <img src="assets/logo.png" alt="Cure-Connect Logo" width="600"/>
 </div>
 
 # Cure-Connect
